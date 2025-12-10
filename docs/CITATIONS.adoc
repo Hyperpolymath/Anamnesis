@@ -1,0 +1,36 @@
+= Anamnesis - Citation Guide
+:toc:
+
+== BibTeX
+
+[source,bibtex]
+----
+@software{anamnesis_2025,
+  author = {Polymath, Hyper},
+  title = {Anamnesis},
+  year = {2025},
+  url = {https://github.com/hyperpolymath/Anamnesis},
+  license = {AGPL-3.0-or-later}
+}
+----
+
+== Harvard Style
+
+Polymath, H. (2025) _Anamnesis_ [Computer software]. Available at: https://github.com/hyperpolymath/Anamnesis
+
+== OSCOLA
+
+Hyper Polymath, 'Anamnesis' (2025) <https://github.com/hyperpolymath/Anamnesis>
+
+== MLA
+
+Polymath, Hyper. "Anamnesis." 2025, github.com/hyperpolymath/Anamnesis.
+
+== APA 7
+
+Polymath, H. (2025). _Anamnesis_ [Computer software]. GitHub. https://github.com/hyperpolymath/Anamnesis
+
+== See Also
+
+* link:../CITATION.cff[CITATION.cff]
+* link:../codemeta.json[codemeta.json]
