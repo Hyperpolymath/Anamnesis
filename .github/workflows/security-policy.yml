@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 name: Security Policy
 permissions: read-all
 on: [push, pull_request]

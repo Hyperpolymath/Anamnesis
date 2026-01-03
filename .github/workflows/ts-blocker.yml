@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MPL-2.0
 name: TypeScript/JavaScript Blocker
 permissions: read-all
 on: [push, pull_request]
